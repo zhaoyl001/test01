@@ -4,6 +4,7 @@
     <router-link to="/about">About</router-link>
   </div>
   <h2>1234t</h2>
+  <h2>1234t</h2>
   <router-view/>
 </template>
 
