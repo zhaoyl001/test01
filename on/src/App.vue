@@ -8,8 +8,12 @@
   <h2>1234t</h2>
   <h2>1234t</h2>
   <h2>1234t</h2>
+<<<<<<< HEAD
   <h1>登录</h1>
   <h1>登录</h1>
+=======
+  <h5>qswdefgh</h5>
+>>>>>>> reg
   <router-view/>
 </template>
 
