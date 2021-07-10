@@ -9,6 +9,7 @@
   <h2>1234t</h2>
   <h2>1234t</h2>
   <h1>登录</h1>
+  <h1>登录</h1>
   <router-view/>
 </template>
 
